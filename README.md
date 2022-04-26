@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **JavaScript, React, Node, MySQL, CSS, HTML, Docker, Typescript, MongoDB and Python.**
 
-- 📫 How to reach me **https://www.linkedin.com/in/daniel-outeiro/**
+- 📫 How to reach me **daniel.outeiro@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
