@@ -1,22 +1,93 @@
-<h1 align="center">Hi 👋, I'm Daniel Outeiro</h1>
-<h3 align="center">I'm currently studying software development full-stack at Trybe</h3>
+<div id="top" align="center">
 
-- 🌱 I’m currently learning **JavaScript, React, Node, MySQL, CSS, HTML, Docker, Typescript, MongoDB and Python.**
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=30&center=true&vCenter=true&width=1000&lines=Welcome+to+my+profile!)
+**Hello I'm Daniel Outeiro, and this is my GitHub Profile** ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+==========================================================================================================================================
+</div>
 
-- 📫 How to reach me **outeiro.dan@gmail.com**
+- 💻 Web Developement Student at [Trybe](https://www.betrybe.com) 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/daniel-outeiro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daniel-outeiro" height="30" width="40" /></a>
-<a href="https://discord.gg/Danox#0878" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="0878" height="30" width="40" /></a>
-</p>
+- 🌱 I’m currently learning Express, MySQL and Node.js
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VScode" width="40" height="40"/> </a> </p>
-<hr>
+- :handshake: I'm looking to collaborate with React and JS projects
+
+- 🌎 I'm Brazilian
+
+- 💬 Ask me about **JavaScript, Anime/Manga and Games**
+
+- 🎯 I'm studying to become a Full Stack Developer
+
+### Contact me
+
+<div>
+  <a href="https://www.linkedin.com/in/daniel-outeiro/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://discord.gg/Danox#0878"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:outeiro.dan@gmail.com"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
+</div>
+
+## Proficient Technologies
+
+### Languages
+
+<div>
+ 
+  ![JavaScript](https://img.shields.io/badge/JavaScript-14354C?style=for-the-badge&logo=javascript&logoColor=black)
+  ![SQL](https://img.shields.io/badge/sql-14354C?style=for-the-badge&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+</div>
+
+### Front-end
+
+<div>
+
+  ![HTML5](https://img.shields.io/badge/HTML-239?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS](https://img.shields.io/badge/CSS-239?&style=for-the-badge&logo=css3&logoColor=white)
+  ![Bootstrap](https://img.shields.io/badge/Bootstrap-239?style=for-the-badge&logo=bootstrap&logoColor=white)
+  ![Redux](https://img.shields.io/badge/Redux-239?style=for-the-badge&logo=redux&logoColor=white)
+  ![React](https://img.shields.io/badge/React-239?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![React Router](https://img.shields.io/badge/React_Router-239?style=for-the-badge&logo=react-router&logoColor=white)
+</div>
+
+### Back-end
+
+<div>
+
+  ![Docker](https://img.shields.io/badge/docker-404D59.svg?style=for-the-badge&logo=docker&logoColor=2497ED)
+  ![NodeJS](https://img.shields.io/badge/Node.js-404D59?style=for-the-badge&logo=node.js&logoColor=white)
+  ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+  ![MySQL](https://img.shields.io/badge/MySQL-404D59?style=for-the-badge&logo=mysql&logoColor=white)
+</div>
+
+### Tests
+
+<div>
+  
+  ![JEST](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
+  ![RTL](https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red)
+  ![Chai](https://img.shields.io/badge/chai.js-323330?style=for-the-badge&logo=chai&logoColor=red)
+  ![Mocha](https://img.shields.io/badge/mocha.js-323330?style=for-the-badge&logo=mocha&logoColor=Brown)
+  ![Sinon.js](https://img.shields.io/badge/sinon.js-323330?style=for-the-badge&logo=sinon)
+</div>
+
+### Others
+
+<div>
+
+  ![Git](https://img.shields.io/badge/GIT-4B275F?style=for-the-badge&logo=git&logoColor=E44C30)
+  ![Linux](https://img.shields.io/badge/Linux-4B275F?style=for-the-badge&logo=linux&logoColor=FCC624)
+  ![Windows](https://img.shields.io/badge/Windows-4B275F?style=for-the-badge&logo=windows&logoColor=0078D6)
+</div>
+
+## GitHub Stats
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dannout&show_icons=true&theme=dark&locale=en&layout=compact" alt="dannout" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=dannout&show_icons=true&theme=dark&locale=en" alt="dannout" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dannout&theme=dark" alt="dannout" /></p>
 
+## Where I hone my skills
+
+<img src="https://www.codewars.com/users/DannOut/badges/small"/>
+
+<div align="center">
