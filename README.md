@@ -79,6 +79,10 @@
   ![Windows](https://img.shields.io/badge/Windows-4B275F?style=for-the-badge&logo=windows&logoColor=0078D6)
 </div>
 
+## Where I hone my skills
+
+<img src="https://www.codewars.com/users/DannOut/badges/small"/>
+
 ## GitHub Stats
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dannout&show_icons=true&theme=dark&locale=en&layout=compact" alt="dannout" /></p>
@@ -87,8 +91,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dannout&theme=dark" alt="dannout" /></p>
 
-## Where I hone my skills
-
-<img src="https://www.codewars.com/users/DannOut/badges/small"/>
 
 <div align="center">
