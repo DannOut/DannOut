@@ -7,8 +7,6 @@
 
 - 💻 Web Developement Student at [Trybe](https://www.betrybe.com) 
 
-- :memo: [Resume](https://drive.google.com/file/d/1-6Q2l4G3GKu7S-ll5219z1Gix-RUgXqj/view?usp=share_link)
-
 - 🌱 I’m currently learning Express, MySQL and Node.js
 
 - :handshake: I'm looking to collaborate with React and JS projects
