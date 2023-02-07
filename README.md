@@ -32,9 +32,12 @@
 
 <div>
  
-  ![JavaScript](https://img.shields.io/badge/JavaScript-14354C?style=for-the-badge&logo=javascript&logoColor=black)
-  ![SQL](https://img.shields.io/badge/sql-14354C?style=for-the-badge&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-14354C?style=for-the-badge&logo=javascript&logoColor=white)
+  ![SQL](https://img.shields.io/badge/Sql-14354C?style=for-the-badge&logo=Sql&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+  ![TypeScript](https://img.shields.io/badge/Typescript-14354C?style=for-the-badge&logo=typescript&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/Mongodb-14354C?style=for-the-badge&logo=Mongodb&logoColor=white)
+  
 </div>
 
 ### Front-end
