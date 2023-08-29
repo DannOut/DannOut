@@ -13,9 +13,8 @@
 
 - 🌎 I'm Brazilian
 
-- 💬 Ask me about **JavaScript, Anime/Manga and Games**
+- 💬 Ask me about **Software Development, Anime/Manga and Games**
 
-- 🎯 I'm studying to become a Full Stack Developer
 
 ### Contact me
 
