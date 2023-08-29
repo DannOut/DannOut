@@ -5,11 +5,11 @@
 ==========================================================================================================================================
 </div>
 
-- 💻 Web Developement Student at [Trybe](https://www.betrybe.com) 
+- ⚙️ Software Engineer at [XP inc.](https://www.xpinc.com/) 
 
-- 🌱 I’m currently learning Express, MySQL and Node.js
-
-- :handshake: I'm looking to collaborate with React and JS projects
+- 💻 alumni at [Trybe](https://www.betrybe.com)
+  
+- 🌱 I’m currently learning .NET
 
 - 🌎 I'm Brazilian
 
@@ -32,6 +32,7 @@
 
 <div>
  
+  ![C#](https://img.shields.io/badge/Dotnet-14354C?style=for-the-badge&logo=Dotnet&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-14354C?style=for-the-badge&logo=javascript&logoColor=white)
   ![SQL](https://img.shields.io/badge/Sql-14354C?style=for-the-badge&logo=Sql&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
