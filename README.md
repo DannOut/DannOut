@@ -9,7 +9,7 @@
 
 - 💻 alumni at [Trybe](https://www.betrybe.com)
   
-- 🌱 I’m currently learning .NET
+-  Working with .Net, Golang
 
 - 🌎 I'm Brazilian
 
