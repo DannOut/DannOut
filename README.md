@@ -5,7 +5,7 @@
 ==========================================================================================================================================
 </div>
 
-- ⚙️ Software Engineer at [XP inc.](https://www.xpinc.com/) 
+- ⚙️ Software Engineer at [Isaac](https://isaac.com.br/) 
 
 - 💻 alumni at [Trybe](https://www.betrybe.com)
   
